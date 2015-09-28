@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "7 \u043c\u0435\u0441\u044f\u0446\u0435\u0432 ", 
   "primary_category": "4d607dcaf5e247dd9f6a8c77cbae4370", 
-  "created_at": "2015-09-28T11:58:09.038203+00:00", 
+  "created_at": "2015-09-28T11:58:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-28T11:58:09.038382+00:00", 
+  "modified_at": "2015-09-28T12:26:39.935969+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "7monthold_rus_baby", 
   "uuid": "a9aa8bf226634ddeb03a23166c243df9"
