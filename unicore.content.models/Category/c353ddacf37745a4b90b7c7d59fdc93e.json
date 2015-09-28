@@ -1,0 +1,20 @@
+{
+  "subtitle": "pregnancy russian", 
+  "uuid": "c353ddacf37745a4b90b7c7d59fdc93e", 
+  "language": "rus_RU", 
+  "title": "\u0420\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u043c", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "pregnancy_rus", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
