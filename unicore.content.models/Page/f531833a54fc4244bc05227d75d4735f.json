@@ -4,14 +4,14 @@
   "language": "rus_RU", 
   "title": "\u0412\u0430\u0448 \u043d\u043e\u0432\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u043d\u044b\u0439 ", 
   "primary_category": "4d607dcaf5e247dd9f6a8c77cbae4370", 
-  "created_at": "2015-09-28T11:45:59.014945+00:00", 
+  "created_at": "2015-09-28T11:45:59+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-28T11:45:59.015141+00:00", 
+  "modified_at": "2015-09-28T12:32:35.737662+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "yournewbaby_rus", 
   "uuid": "f531833a54fc4244bc05227d75d4735f"
